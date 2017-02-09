@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PropertyAnimation</string>
+    <string name="sun">Sun</string>
+    <string name="cloud">Cloud</string>
+    <string name="window">Window</string>
+    <string name="animation_on">Anim ON</string>
+    <string name="animation_off">Anim OFF</string>
+</resources>
